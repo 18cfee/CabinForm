@@ -1,1 +1,7 @@
+Carl
+1 Get a webpage made that interacts with go code
+2 Choose a site (google) to deploy to and deploy
+3 Get Database part up and running
+4 Finish tutorial 1
 
+Josiah
