@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"os"
 
-	"gopoll/handlers"
+	"cabin/CabinForm/handlers"
 
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
