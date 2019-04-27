@@ -42,7 +42,7 @@
             created: function () {
                 axios.get('/polls')
                     .then(res => this.polls = res.data.items ? res.data.items : [])
-                    .catch(e => this.failed('Unsuccesful'))
+                    .catch(e => this.failed('Unsuccesful No way'))
             },
             methods: {
                 upvote: function (n) {
